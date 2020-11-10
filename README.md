@@ -1,0 +1,2 @@
+# advertisement_chain_demo
+奖赏式APP下载链的最初构想
